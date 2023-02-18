@@ -1,0 +1,67 @@
+data persistence json
+
+MAIN
+
+introduction to game
+traditional/arcade
+|******|
+|******|
+help
+
+- AUTH
+
+    username
+    lastname
+    date
+    time
+    number of times user logged in
+    last logged in
+    image
+    win %
+    password
+    admin
+    
+    - HISTORY
+
+    - ADMIN PANEL
+
+    - WINNER BOARD
+
+    - AUTHORIZATION 
+
+    - RECORDS
+
+    - FAVOURITE
+
+    - LAST LOGIN CHANGE
+
+    - BOARD
+
+        mode
+        sides
+        slots
+        pebbles
+        special stones
+        half hand
+        user
+        playermode
+
+        - SINGLE
+
+            - TRADITIONAL
+        
+                rules
+
+            - ARCADE
+
+                rules
+
+        - MULTI
+
+            - TRADITIONAL
+        
+                rules
+
+            - ARCADE
+
+                rules
